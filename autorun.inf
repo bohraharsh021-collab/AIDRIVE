@@ -1,0 +1,5 @@
+[AutoRun]
+open=START_AIDRIVE.bat
+icon=web\favicon.ico
+label=AIDRIVE (The Shoemaker's Pen Drive)
+action=Launch AIDRIVE Shoemaker Workshop

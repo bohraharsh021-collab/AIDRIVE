@@ -1,0 +1,12 @@
+EXPERIMENT: BOOLEAN FUNCTION MINIMIZATION & TRUTH TABLE GENERATION
+SUBJECT: DIGITAL PRINCIPLES & SYSTEM DESIGN (ECE 1ST YEAR)
+
+PROBLEM:
+Minimize the Boolean expression:
+F(A, B, C) = (A AND B) OR (NOT A AND C) OR (B AND C)
+
+TASKS FOR THE ELVES:
+1. Construct the complete 8-row Truth Table.
+2. Identify all minterms (Sigma m) and maxterms (Pi M).
+3. Apply Boolean algebra theorems / De Morgan's laws or K-Map simplification.
+4. Draw or specify the minimal 2-level NAND-NAND implementation.

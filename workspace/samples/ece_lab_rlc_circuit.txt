@@ -1,0 +1,14 @@
+EXPERIMENT: SERIES RLC RESONANCE FREQUENCY ANALYSIS
+DEPARTMENT: ELECTRONICS AND COMMUNICATION ENGINEERING (BIT SATHY)
+
+PROBLEM STATEMENT:
+Given a series RLC circuit with the following component values:
+- Resistance R = 20 Ohms
+- Inductance L = 5 mH (0.005 H)
+- Capacitance C = 2.2 uF (0.0000022 F)
+
+TASKS FOR THE ELVES:
+1. Calculate the resonant frequency f0 (in Hz) and angular resonant frequency omega0 (in rad/s).
+2. Calculate the Quality Factor Q and Bandwidth BW.
+3. Write a standard ANSI C program to compute impedance across frequencies from 100 Hz to 10 kHz in steps of 500 Hz.
+4. Prepare a clean lab record summary with formula derivations and tabulation format.

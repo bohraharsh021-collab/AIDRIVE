@@ -1,0 +1,35 @@
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# AIDRIVE Sensitive & Runtime Data
+core/vault.dat
+core/audit_log.jsonl
+workspace/active/*
+workspace/scratch/*
+workspace/quarantine/*
+!workspace/active/.gitkeep
+!workspace/scratch/.gitkeep
+!workspace/quarantine/.gitkeep
+
+# Environment variables & Local Config
+.env
+.env.local
+*.local.json
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor Configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Agent Cache & Build Dumps
+.agents/

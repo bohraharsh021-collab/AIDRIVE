@@ -1,0 +1,2 @@
+ECE LAB ASSIGNMENT 1: RLC RESONANCE & IMPEDANCE STUDY
+Please have Elf Ohm calculate the circuit resonant metrics (R=20 ohm, L=5mH, C=2.2uF), Elf Turing write the C code simulation, and Elf Scribe format the lab report.
