@@ -1,10 +1,10 @@
 @echo off
-title AIDRIVE - The Shoemaker's Agentic Pen Drive (BIT Sathy ECE)
+title AIDRIVE - The Portable Sovereign Agentic Workspace
 color 0A
 
 echo ====================================================================
-echo        AIDRIVE: The Shoemaker's Agentic Pen Drive
-echo        Bannari Amman Institute of Technology (BIT Sathy)
+echo        AIDRIVE: The Portable Sovereign Agentic Workspace
+echo        Isolated Sandbox • Dual Engine • Autonomous Multi-Agent
 echo ====================================================================
 echo.
 
