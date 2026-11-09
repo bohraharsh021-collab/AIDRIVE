@@ -1,9 +1,7 @@
 # 👞 AIDRIVE: The Shoemaker's Agentic Pen Drive
 ### *A Portable, Sandboxed, Dual-Engine Agentic AI Runtime for USB Drives*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
 [![Python: 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
-[![Tests: 15/15 Passing](https://img.shields.io/badge/Tests-15%2F15%20Passing-brightgreen.svg)](tests/)
 [![Offline: 100% Air--Gapped](https://img.shields.io/badge/Mode-100%25%20Offline%20Capable-purple.svg)](#dual-engine-architecture)
 [![Institution: BIT Sathy](https://img.shields.io/badge/Origin-BIT%20Sathy%20ECE-orange.svg)](#origin--academic-context)
 
@@ -137,7 +135,6 @@ AIDRIVE/
 ├── START_AIDRIVE.sh                    # 1-Click Linux/macOS launcher
 ├── autorun.inf                         # USB Auto-run branding
 ├── README.md                           # Master repository documentation
-├── LICENSE                             # MIT License
 ├── .gitignore                          # Standard clean Git ignore rules
 │
 ├── core/                               # Core AIDRIVE System Engine
@@ -179,7 +176,7 @@ AIDRIVE/
     ├── test_permissions.py              # Permission request/grant/deny tests
     ├── test_ece_toolkit.py             # ECE mathematical solver tests
     ├── test_agents.py                  # Agent decomposition & execution tests
-    └── run_tests.py                    # Master test runner (15/15 tests passing)
+    └── run_tests.py                    # Master test runner
 ```
 
 ---
@@ -189,16 +186,6 @@ AIDRIVE/
 Run the automated test suite anytime with zero external packages:
 ```bash
 py tests/run_tests.py
-```
-Output:
-```text
-====================================================================
-      [AIDRIVE] TEST SUITE: ZERO-DEFECT QUALITY VERIFICATION       
-====================================================================
-Ran 15 tests in 8.772s
-
-OK
-✅ ALL TESTS PASSED! AIDRIVE is solid, secure, and ready for deployment.
 ```
 
 ---
